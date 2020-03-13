@@ -7,7 +7,7 @@ This widget is part of the COVID-19 Ask A Scientist project developed by the [Fe
 See the project website at [covid19.fas.org](https://covid19.fas.org).
 
 ## Who is using the widget?
-Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed with important updates.
+Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed with important updates. You can also open a pull request, but let us know where to best reach you. 
 
 Sites using the widget:
 
@@ -20,8 +20,8 @@ Thanks for your partnership!
 ## Instructions for adding the Ask A Scientist widget to your website
 
 In order to add the widget to your site, you need to add 2 pieces of code to each page (or to your entire site code): 
-1. Copy the code in the [tooltip.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/tooltip.html) file from this repo and add it into the <body> of your page(s).
-2. Copy the code in the [script.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/script.html) file from this repo and add it into the <head> of your page(s). 
+1. Copy the code in the [tooltip.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/tooltip.html) file from this repo and add it into the `<body>` of your page(s).
+2. Copy the code in the [script.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/script.html) file from this repo and add it into the `<head>` of your page(s). 
 3. See below for additional instructions if the widget does not appear correctly on your mobile site. 
 
 ### Widget preview
@@ -45,7 +45,7 @@ To change the 10 second timer, change the value on line 40 of script.html (defau
 To change the mouseover behaviour, change the parameter on line 35 of script.html (default: mouseover). 
 
 #### Known Issue
-If the the widget appears small in mobile view, make sure that the following line is placed in the <head> section of your code:
+If the the widget appears small in mobile view, make sure that the following line is placed in the `<head>` section of your code:
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
 ## Contact Us
