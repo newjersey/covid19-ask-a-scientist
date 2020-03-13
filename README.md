@@ -73,7 +73,7 @@ Feel free to use the following optional copy when sharing the widget and service
 *All content is sourced from the World Health Organization, the Center for Disease Control and Prevention, and other reliable sources. Additionally, each answer is researched and edited by a scientist from the FAS network. Visit the [COVID-19 Ask A Scientist site](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site) for more information.*
 
 ## Contact Us
-For questions or clarifications, please get in touch with us at covid19@fas.org.
+For questions, clarifications, support, and feedback, please get in touch with us at covid19@fas.org.
 
 
 
