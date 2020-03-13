@@ -10,8 +10,8 @@ See the project website at [covid19.fas.org](www.covid19.fas.org).
 See a live demo on [www.thegovlab.org](www.thegovlab.org).
 
 In order to add the widget to your site, you need to add 2 pieces of code.
-1. Copy the code in the tooltip.html file from this repo and add it into the <body> of your page.
-2. Copy the code in the script.html file from this repo and add it into the <head> of your page. 
+1. Copy the code in the [tooltip.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/tooltip.html) file from this repo and add it into the <body> of your page.
+2. Copy the code in the [script.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/script.html) file from this repo and add it into the <head> of your page. 
 
 ### Other Notes
 
