@@ -28,15 +28,15 @@
   function ready_alert() {
     //delay text box to compensate for widget loading time
     setTimeout(function () {
-      document.getElementById("covid-19").style.display = "block";
+      document.getElementById("gl_covid_19_textbox").style.display = "block";
     }, 1000);
     //hide text box on mouseover
-    var test = document.getElementById("covid-19");
-    test.addEventListener("mouseover", myFunction); //To change mouseover behaviour, change the parameter here.
-    function myFunction() { document.getElementById("covid-19").style.display = "none"; };
+    var mouseover_beh = document.getElementById("gl_covid_19_textbox");
+    mouseover_beh.addEventListener("mouseover", myFunction); //To change mouseover behaviour, change the parameter here.
+    function myFunction() { document.getElementById("gl_covid_19_textbox").style.display = "none"; };
     //hide textbox after 10 seconds
     setTimeout(function () {
-      document.getElementById("covid-19").style.display = "none";
+      document.getElementById("gl_covid_19_textbox").style.display = "none";
     }, 10000); //To change the timer, modify this number. Default (in ms): 10000.
 
 
