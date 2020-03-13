@@ -2,12 +2,12 @@
 
 ## About the project
 
-This widget is part of the COVID-19 Ask A Scientist project developed by the [Federation of American Scientists](https://fas.org), [The Governance Lab at NYU](https://thegovlab.org) and the [New Jersey Office of Innovation](https://innovation.nj.gov) and supported by a network of [volunteers](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site).
+The [COVID-19 Ask A Scientist project](https://covid19.fas.org) was developed by the [Federation of American Scientists](https://fas.org), [The Governance Lab at NYU](https://thegovlab.org) and the [New Jersey Office of Innovation](https://innovation.nj.gov) and supported by a network of [volunteers](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site).
 
-See the project website at [covid19.fas.org](https://covid19.fas.org).
+We are making the Ask a Scientist widget available to add to your website via the instructions below. 
 
-## Who is using the widget?
-Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed with important updates. You can also open a pull request, but let us know where to best reach you. 
+## Who is using the Ask a Scientist widget?
+Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed with important updates. You can open a pull request, but also let us know where to best reach you. 
 
 Sites using the widget:
 
@@ -15,9 +15,9 @@ Sites using the widget:
 - [Federation of American Scientists](https://fas.org/ncov/)
 - [The Governance Lab at New York University](http://thegovlab.org/)
 
-Thanks for your partnership! 
+Thanks for your partnership! See the bottom of this page for optional language that you can use to highlight this widget on your website. 
 
-## Instructions for adding the Ask A Scientist widget to your website
+## Instructions for adding the widget to your website
 
 In order to add the widget to your site, you need to add 2 pieces of code to each page (or to your entire site code): 
 1. Copy the code in the [tooltip.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/tooltip.html) file from this repo and add it into the `<body>` of your page(s).
@@ -26,9 +26,17 @@ In order to add the widget to your site, you need to add 2 pieces of code to eac
 
 ### Widget preview
 
-![Widget Preview](http://newjersey.github.io/covid19-ask-a-scientist/img/widget-preview.png)
 
 You can preview a live demo of the widget [here](https://newjersey.github.io/covid19-ask-a-scientist/preview.html) and [thegovlab.org](https://thegovlab.org). 
+
+A screenshot of the widget when it is closed:
+
+![Widget preview when closed](http://newjersey.github.io/covid19-ask-a-scientist/img/widget-preview.png)
+
+A screenshot of the widget when it is open:
+
+![Widget preview when opened](http://newjersey.github.io/covid19-ask-a-scientist/img/widget-open-preview.png)
+
 
 
 ### Other Notes
@@ -47,6 +55,22 @@ To change the mouseover behaviour, change the parameter on line 35 of script.htm
 #### Known Issue
 If the the widget appears small in mobile view, make sure that the following line is placed in the `<head>` section of your code:
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+## Sharing this resource 
+
+Feel free to use the following optional copy when sharing the widget and service. 
+
+### Copy for your website
+
+*We have made the COVID-19 "Ask a Scientist" service from the Federation of American Scientists available on our website. You can instantly find answers to your COVID-19 questions by clicking the question mark icon at the bottom of this page. If you don't find the answer you are looking for, click "Ask a scientist your question" to send your question to a network of scientists and journalists who have volunteered to respond. For more information about the project, visit the [COVID-19 Ask a Scientist site](https://covid19.fas.org/).*
+
+### Email copy 
+
+*The Federation of American Scientists has launched [COVID-19 "Ask a Scientist"](https://covid19.fas.org/) - a service created to answer the public's questions regarding the coronavirus outbreak.*
+
+*Through this service, you can instantly find answers to your COVID-19 questions. If you don't find the answer you are looking for, you can also submit your question to a network of scientists and journalists who have volunteered to respond.*
+
+*All content is sourced from the World Health Organization, the Center for Disease Control and Prevention, and other reliable sources. Additionally, each answer is researched and edited by a scientist from the FAS network. Visit the [COVID-19 Ask A Scientist site](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site) for more information.*
 
 ## Contact Us
 For questions or clarifications, please get in touch with us at covid19@fas.org.
