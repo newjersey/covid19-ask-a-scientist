@@ -1,13 +1,21 @@
-# COVID-19 Ask a Scientist Widget Readme
+# COVID-19 Ask a Scientist Project Readme
 
 ## About the project
 
-This widget is part of the COVID-19 Ask A Scientist project developed by the [Federation of American Scientists](https://fas.org), [The Governance Lab at NYU](https://thegovlab.org) and the [New Jersey Office of Innovation](https://innovation.nj.gov). 
+This widget is part of the COVID-19 Ask A Scientist project developed by the [Federation of American Scientists](https://fas.org), [The Governance Lab at NYU](https://thegovlab.org) and the [New Jersey Office of Innovation](https://innovation.nj.gov) and supported by a network of [volunteers](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site).
 
 See the project website at [covid19.fas.org](https://covid19.fas.org).
 
-You can find more details about the project, including instructions for volunteering on our [About page](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site).
+## Who is using the widget?
+Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed with important updates.
 
+Sites using the widget:
+
+- [Ask a Scientist Homepage](https://covid19.fas.org/)
+- [Federation of American Scientists](https://fas.org/ncov/)
+- [The Governance Lab at New York University](http://thegovlab.org/)
+
+Thanks for your partnership! 
 
 ## Instructions for adding the Ask A Scientist widget to your website
 
@@ -20,10 +28,11 @@ In order to add the widget to your site, you need to add 2 pieces of code to eac
 
 ![Widget Preview](http://newjersey.github.io/covid19-ask-a-scientist/img/widget-preview.png)
 
-You can preview a live demo of the widget at [thegovlab.org](https://thegovlab.org). 
+You can preview a live demo of the widget [here](https://newjersey.github.io/covid19-ask-a-scientist/preview.html) and [thegovlab.org](https://thegovlab.org). 
 
 
 ### Other Notes
+
 
 #### Widget Icon
 The widget has a question mark icon. This icon is sourced from [Nounproject](https://thenounproject.com/) (the svg file is available in the img folder of this repo).  
@@ -42,15 +51,6 @@ If the the widget appears small in mobile view, make sure that the following lin
 ## Contact Us
 For questions or clarifications, please get in touch with us at covid19@fas.org.
 
-## Who is using the widget?
-Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed as needed.
 
-Sites using the widget:
-
-- [Ask a Scientist Homepage](https://covid19.fas.org/)
-- [Federation of American Scientists](https://fas.org/ncov/)
-- [The Governance Lab at New York University](http://thegovlab.org/)
-
-Thanks for your partnership! 
 
 
