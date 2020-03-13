@@ -56,7 +56,7 @@ To change the mouseover behaviour, change the parameter on line 35 of script.htm
 If the the widget appears small in mobile view, make sure that the following line is placed in the `<head>` section of your code:
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
-## Sharing this resource 
+## Sharing Ask a Scientist with your community and website visitors
 
 Feel free to use the following optional copy when sharing the widget and service. 
 
