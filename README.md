@@ -60,11 +60,11 @@ If the the widget appears small in mobile view, make sure that the following lin
 
 Feel free to use the following optional copy when sharing the widget and service. 
 
-### Copy for your website
+### Announcing the widget on your website
 
 *We have made the COVID-19 "Ask a Scientist" service from the Federation of American Scientists available on our website. You can instantly find answers to your COVID-19 questions by clicking the question mark icon at the bottom of this page. If you don't find the answer you are looking for, click "Ask a scientist your question" to send your question to a network of scientists and journalists who have volunteered to respond. For more information about the project, visit the [COVID-19 Ask a Scientist site](https://covid19.fas.org/).*
 
-### Email copy 
+### Sharing the service on your website or via email (no widget required)
 
 *The Federation of American Scientists has launched [COVID-19 "Ask a Scientist"](https://covid19.fas.org/) - a service created to answer the public's questions regarding the coronavirus outbreak.*
 
