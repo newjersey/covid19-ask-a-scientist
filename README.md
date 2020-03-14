@@ -70,7 +70,7 @@ Feel free to use the following optional copy when sharing the widget and service
 
 *Through this service, you can instantly find answers to your COVID-19 questions. If you don't find the answer you are looking for, you can also submit your question to a network of scientists and journalists who have volunteered to respond.*
 
-*All content is sourced from the World Health Organization, the Center for Disease Control and Prevention, and other reliable sources. Additionally, each answer is researched and edited by a scientist from the FAS network. Visit the [COVID-19 Ask A Scientist site](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site) for more information.*
+*All content is sourced from the World Health Organization, the Centers for Disease Control and Prevention, and other reliable sources. Additionally, each answer is researched and edited by a scientist from the FAS network. Visit the [COVID-19 Ask A Scientist site](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site) for more information.*
 
 ## Contact Us
 For questions, clarifications, support, and feedback, please get in touch with us at covid19@fas.org.
