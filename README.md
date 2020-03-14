@@ -4,7 +4,7 @@
 
 The [COVID-19 Ask A Scientist project](https://covid19.fas.org) was developed by the [Federation of American Scientists](https://fas.org), [The Governance Lab at NYU](https://thegovlab.org) and the [New Jersey Office of Innovation](https://innovation.nj.gov) and supported by a network of [volunteers](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site).
 
-We are making the Ask a Scientist widget available to add to your website via the instructions below. 
+We are making the Ask a Scientist widget available to add to your website via the instructions below.  You can also find text below that you can use to share the site directly with your community and website visitors.
 
 ## Who is using the Ask a Scientist widget?
 Please email us at covid19@fas.org if you decide to use the widget so we can add you to this list and also keep you informed with important updates. You can open a pull request, but also let us know where to best reach you. 
