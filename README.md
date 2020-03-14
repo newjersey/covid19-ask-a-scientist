@@ -41,6 +41,8 @@ A screenshot of the widget when it is open:
 
 ### Other Notes
 
+#### Content 
+The questions and answer content in the widget will auto-update to match the latest content on the [Ask a Scientist site](https://covid19.fas.org/).
 
 #### Widget Icon
 The widget has a question mark icon. This icon is sourced from [Nounproject](https://thenounproject.com/) (the svg file is available in the img folder of this repo).  
@@ -55,6 +57,8 @@ To change the mouseover behaviour, change the parameter on line 35 of script.htm
 #### Known Issue
 If the the widget appears small in mobile view, make sure that the following line is placed in the `<head>` section of your code:
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+
 
 ## Sharing Ask a Scientist with your community and website visitors
 
