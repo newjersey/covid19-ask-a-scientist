@@ -1,8 +1,10 @@
-
 <!-- This code serves two purposes. The first, loads the lighthouse QnABot widget. The second is used to dismiss the textbox either on mouseover or after 10 seconds-->
 <script type="text/javascript">
   //This code loads the lighthouse widget. Additional config parameters to edit available on https://support.helpdocs.io/article/ykv7l5jthy-lighthouse-widget-api
+  if(document.documentElement.lang === "es")
+  {
   window.hdlh = {
+    language_code: 'es',
     widget_key: "8bi8g1ygumkphadqnumx",
     primary_color: '#C1D37F',
     logo: 'https://newjersey.github.io/covid19-ask-a-scientist/img/fas_logo.png',
@@ -18,15 +20,38 @@
       contact_message_placeholder: 'Type your question or message for us here...'
     }
   };
+  }
+if(document.documentElement.lang === "en"){
+    window.hdlh = {
+    language_code: 'en',
+    widget_key: "8bi8g1ygumkphadqnumx",
+    primary_color: '#C1D37F',
+    logo: 'https://newjersey.github.io/covid19-ask-a-scientist/img/fas_logo.png',
+    brand: '',
+    color_mode: 'dark',
+    disable_authorship: true,
+    launcher_button_image: 'https://newjersey.github.io/covid19-ask-a-scientist/img/question_12.svg', //This paarameter loads the default question mark icon into the widget. If you want to use a different icon, please use an absolute URL, or pass false to disable the logo completely. Ideally an SVG, but a 180px square PNG/JPG will work great.
+    i18n: { // Change the value of the strings we use inside Lighthouse, for internationalization. 
+      contact_button: 'Ask a scientist your question',
+      contact_name_placeholder: 'Name (Optional)',
+      contact_email_placeholder: 'Email (Required)',
+      search_placeholder: 'Ask your questions here...',
+      contact_message_placeholder: 'Type your question or message for us here...'
+    }
+  };
+  }
   (function (h, d) { var s = d.createElement("script"); s.type = 'text/javascript'; s.async = true; s.src = h + "?t=" + new Date().getTime(); d.head.appendChild(s); })("https://lighthouse.helpdocs.io/load", document);
   document.addEventListener('readystatechange', function () {
     if (document.readyState === "complete") {
       ready_alert();
     }
+  
   });
+
   //The following code is to show the textbox describing the widget. 
   function ready_alert() {
-    //delay text box to compensate for widget loading time
+    //delay text box to compensate for widget loading time (in es and en)
+    if(document.documentElement.lang === "en"){
     setTimeout(function () {
       document.getElementById("gl_covid_19_textbox").style.display = "block";
     }, 1000);
@@ -39,6 +64,22 @@
       document.getElementById("gl_covid_19_textbox").style.display = "none";
     }, 10000); //To change the timer, modify this number. Default (in ms): 10000.
 
+  }
+  if(document.documentElement.lang === "es"){
+  setTimeout(function () {
+      document.getElementById("gl_covid_19_textbox_es").style.display = "block";
+    }, 1000);
 
+  var mouseover_beh = document.getElementById("gl_covid_19_textbox_es");
+
+    mouseover_beh.addEventListener("mouseover", myFunction); //To change mouseover behaviour, change the parameter here.
+
+    function myFunction() { document.getElementById("gl_covid_19_textbox_es").style.display = "none"; };
+
+    //hide textbox after 10 seconds
+    setTimeout(function () {
+      document.getElementById("gl_covid_19_textbox_es").style.display = "none";
+    }, 10000); //To change the timer, modify this number. Default (in ms): 10000.
+  }
   };
 </script>
