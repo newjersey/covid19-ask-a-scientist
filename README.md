@@ -26,12 +26,8 @@ Thanks for your partnership! See the bottom of this page for optional language t
 
 ## Instructions for adding the widget to your website
 
-Note: Please email us before activating as we are transitioning to a new widget. 
+Please email us (team@innovation.nj.gov) for instructions as we are transitioning to a new widget. 
 
-In order to add the widget to your site, you need to add 2 pieces of code to each page (or to your entire site code): 
-1. Copy the code in the [tooltip.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/tooltip.html) file from this repo and add it into the `<body>` of your page(s).
-2. Copy the code in the [script.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/script.html) file from this repo and add it into the `<head>` of your page(s). 
-3. See below for additional instructions if the widget does not appear correctly on your mobile site. 
 
 ### Widget preview
 
