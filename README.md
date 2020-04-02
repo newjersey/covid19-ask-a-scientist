@@ -1,5 +1,11 @@
 # COVID-19 Ask a Scientist Project Readme
 
+## Update
+We will be making the Ask a Scientist data available via API.  Please email team@innovation.nj.gov for access. 
+
+If you are currently using the widget below, please email us so we can assist in the transition.
+
+
 ## About the project
 
 The [COVID-19 Ask A Scientist project](https://covid19.fas.org) was developed by the [Federation of American Scientists](https://fas.org), [The Governance Lab at NYU](https://thegovlab.org) and the [New Jersey Office of Innovation](https://innovation.nj.gov) and supported by a network of [volunteers](https://covid19.fas.org/l/en/article/jgibm2l09k-about-this-site).
