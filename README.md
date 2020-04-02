@@ -3,7 +3,8 @@
 ## Update
 We will be making the Ask a Scientist data available via API.  Please email team@innovation.nj.gov for access. 
 
-If you are currently using the widget below, please email us so we can assist in the transition.
+We are in the process of making a new widget available.  If you are currently using the widget below or interested in using a widget in the future, please email us so we can assist in making it available.
+
 
 
 ## About the project
@@ -24,6 +25,8 @@ Sites using the widget:
 Thanks for your partnership! See the bottom of this page for optional language that you can use to highlight this widget on your website. 
 
 ## Instructions for adding the widget to your website
+
+Note: Please email us before activating as we are transitioning to a new widget. 
 
 In order to add the widget to your site, you need to add 2 pieces of code to each page (or to your entire site code): 
 1. Copy the code in the [tooltip.html](https://github.com/newjersey/covid19-ask-a-scientist/blob/master/tooltip.html) file from this repo and add it into the `<body>` of your page(s).
